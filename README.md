@@ -1,1 +1,7 @@
-# task-7
+For this task, I used Google Chrome to inspect and manage browser extensions. I began by navigating to the extensions page by typing chrome://extensions in the address bar. This opened the extension manager where all currently installed extensions were listed. I carefully reviewed each extension to determine its purpose and whether it was necessary or safe to keep.
+
+There were two extensions installed: Google Docs Offline and McAfee WebAdvisor. I recognized Google Docs Offline as a trusted Google tool that allows editing documents without internet access, so I decided to retain it. The second extension, McAfee WebAdvisor, is a security tool from McAfee that provides website safety ratings. However, after researching it online, I found mixed reviews — some users reported slow browser performance, while others mentioned data collection concerns. Additionally, I do not actively use McAfee antivirus, and this extension appeared to be automatically installed.
+
+Based on this, I identified McAfee WebAdvisor as unnecessary for my usage and clicked the Remove button to uninstall it. After removal, I restarted the browser to ensure any changes took effect and checked for performance improvements. The browser felt slightly faster and cleaner without the unused extension.
+
+This task helped me understand the importance of regularly reviewing installed browser extensions and how certain add-ons, even if not malicious, can affect browser speed and privacy. I learned how to evaluate extensions based on permissions, reviews, and personal need, and took appropriate action by removing one that wasn’t required.
